@@ -78,13 +78,13 @@ nav ul li a {
     color:white;
 }
 
-.hero-image {
+.power-image {
     position: relative;
     text-align: center;
     
 }
 
-.hero-image img {
+.power-image img {
     width: 600px;
     border-radius: 10px;
     justify-content:center;
